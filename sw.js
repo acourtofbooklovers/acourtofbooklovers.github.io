@@ -1,8 +1,8 @@
-const version = '20221114055351';
+const version = '20221114225036';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/2022/11/10/The-Scarlet-Letter/","/2022/10/26/Rip-Van-Winkle/","/Reviews/","/about/","/categories/","/contact/","/elements/","/","/manifest.json","/mylibrary/","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2022/11/10/The-Scarlet-Letter/","/2022/10/26/Sleepy-Hollow/","/2022/10/26/Rip-Van-Winkle/","/2022/09/26/The-Iroquois-Creation-Story/","/Academic/","/about/","/categories/","/contact/","/elements/","/","/manifest.json","/mylibrary/","/offline/","/assets/search.json","/search/","/assets/styles.css","/thanks/","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/assets/styles.css.map","/assets/logos/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
